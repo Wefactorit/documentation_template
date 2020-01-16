@@ -16,7 +16,15 @@ Give some examples to show how the users can use your module
 
 ## Inputs
 
+| Name | Description | Type | Default | Required |
+|:-----|:------------|:-----|:--------|:---------|
+|      |             |      |         |          |
+
 ## Outputs
+
+| Name | Description |
+|:-----|:------------|
+|      |             |
 
 ## Contributing
 
