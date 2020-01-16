@@ -21,7 +21,7 @@ Command line used to achieve the demo
 
 ### Session record
 
-![Sample](/images/awesome_window_frame_js.svg)
+![Sample](/images/awesome_window_frame_powershell.svg)
 
 ## Q&A
 
