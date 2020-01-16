@@ -1,64 +1,38 @@
-# Role presentation ALEX
-----------------------------------
+# Module name
 
 Explain the purpose of you module
 
 ## Overview
-----------------------------------
+
 Describe an overview of the module
 
-
 ## Requirements
-----------------------------------
-List the require here ..
 
-
-## Installation
----------------------------------
-
-All the step required to install the module
-
+List the requirements here.
 
 ## Usage
----------------------------------
-
 
 Give some examples to show how the users can use your module
 
+## Inputs
 
-## Variables
------------------------------------------------
-
-#### GENERAL
-
-| Name | Description | Type | Default | Required |
-|------|-------------|:----:|:-----:|:-----:|
-| Var 1 | Description 01 | string | - | yes |
-| Var 2 | Description 02| string | - | yes |
-| Var 3 | Description 03| string | - | yes |
-
-
-
-
-
-
+## Outputs
 
 ## Contributing
----------------------------------
-Share any informations could be useful to help developers to contribute
 
+Share any information could be useful to help developers to contribute
 
-
-## Next improvements
-----------------------------------
+## Upcoming improvements
 
 List upcoming improvements
 
+## Related projects
+
 ## Author
-----------------------------------
+
 The place to shine
 - [Sype](https://github.com/sype), DevOps engineer.
 
 ## Acknowlegement
-----------------------------------
-Thank Wefactorit Team.
+
+Thanks [Wefactorit](https://www.wefactorit.com) Team.
