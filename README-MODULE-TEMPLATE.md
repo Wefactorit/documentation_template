@@ -38,7 +38,6 @@ List upcoming improvements
 
 ## Author
 
-The place to shine
 - [Sype](https://github.com/sype), DevOps engineer.
 
 ## Acknowlegement
