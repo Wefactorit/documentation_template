@@ -1,6 +1,6 @@
 # Module name
 
-Explain the purpose of you module
+Explain the purpose of this module
 
 ## Overview
 
@@ -28,7 +28,7 @@ Give some examples to show how the users can use your module
 
 ## Contributing
 
-Share any information could be useful to help developers to contribute
+Share any useful information to help developers to contribute
 
 ## Upcoming improvements
 
