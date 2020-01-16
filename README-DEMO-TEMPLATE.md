@@ -7,6 +7,8 @@ Explain the purpose of this demonstration and its goals
 Describe the principles you want to demonstrate (use a schema if
 necessary)
 
+![Sample](/images/Sample.png)
+
 ## Demo session
 
 ### Requirements
@@ -18,6 +20,8 @@ List the technical requirements here
 Command line used to achieve the demo
 
 ### Session record
+
+![Sample](/images/awesome_window_frame_js.svg)
 
 ## Q&A
 
