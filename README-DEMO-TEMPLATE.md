@@ -2,23 +2,26 @@
 
 Explain the purpose of this demonstration and its goals
 
-## Overview
+## Goals
 
 Describe the principles you want to demonstrate (use a schema if
 necessary)
 
-## Requirements
+## Demo session
+
+### Requirements
 
 List the technical requirements here
 
-## Walkthrough
+###  Walkthrough
 
 Command line used to achieve the demo
 
-## Session record
+### Session record
+
+## Q&A
 
 ## Related projects
-
 
 ## Author
 
